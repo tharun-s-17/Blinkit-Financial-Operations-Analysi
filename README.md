@@ -1,4 +1,4 @@
-# Blinkit Financial & Operations Analysis
+# Quick-Commerce Financial & Operations Analysis (Blinkit Case Study)
 
 ## 📌 Project Objective
 This project analyzes quick-commerce operational data to evaluate product profitability, quantify inventory shrinkage, and optimize marketing spend. The goal is to provide actionable financial insights to improve overall profit margins.
